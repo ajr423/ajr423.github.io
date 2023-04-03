@@ -8,9 +8,9 @@ I am a senior in the Integrated Business and Engineering Honors Program pursuing
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify risks](report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This project analyzes the impact of 10-k sentiment on their stock returns
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
