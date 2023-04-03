@@ -30,7 +30,14 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Active Solar Development](/pdf/sample_presentation.pdf)**_
+
+Title: Solar Site Designer & Land Aquisitioner
+
+• Designed 50+ conceptual plans for 5MW solar systems in CAD/Helioscope using input from the land team
+• Performed financial/output analysis on 5 single axis tracker systems to determine profitability relative to existing fixed tilt racking. Presented findings to team, recommended best system and additional software
+• Cutting survey costs: Researched different GIS platforms in order use public DEM data. Learned ArcGIS to perform slope/cut & fill analysis on potential sites. Saved $5k per site + understood earthwork costs
+• Manufactured beam connections, modified existing beams, and installed beams on steel structure
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
