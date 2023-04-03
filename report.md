@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Summary
 
 In this report, the impact of on stock returns based on how firms value their customers, employees, and organization and strategy was analyzed. The S&P500 was used as the sample size due to its broad market penetration. The stock returns for the firms were calculated surrounding the release of the firm's 10-ks.Sentiment analysis was also run using the ML positive and negative dictionary and three bag of words topics surrounding: employee focus, customer focus, and organization and strategy focus. The bags of words for the topics were taken from a report analyzing the impact of customer and employee centered words used during earnings calls.
