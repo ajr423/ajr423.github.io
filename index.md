@@ -1,14 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+I am a senior in the Integrated Business and Engineering Honors Program pursuing a degree in finance and a minor in mechanics of materials. By spring '24 I will have my Master's from Lehigh in Energy System's Engineering. I enjoy the intersection between engineering and business, working on teams, and challenging myself. I am interested in internship opportunities in sustainable development, energy systems engineering, renewables, energy storage, and nuclear power generation.
 
 ---
 
