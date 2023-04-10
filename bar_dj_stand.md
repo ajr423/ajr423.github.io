@@ -74,8 +74,28 @@ Once the framing was in place, we took the bar up to the chapter house to instal
 
 Furnishing our rec room from scratch gave us a lot of liberty with how we wanted to organize the space. After many hours of debate we landed on a truss system for lighting flanked by speakers with a DJ stand as the focal point.
 
-The DJ stand needed to be light enough to move and adjustable. Therefore, I designed a 3 panel system with hinges and minimal framing. The framing allowed for light but sturdy construction, while the hinges provided some flexibility with the set up.
+<img src="wood_working/dj_stand_finished.jpg?raw=true"/>
 
-To highlight the stand further, we used UV activated paint and set UV lights in the direction of the stand. We also created a light box for each panel to give the illusion of our letters in 3-D. To do this, I cut our letters out from each panel, then built a white box behind them. We then ran LED’s around the perimeter of the box to create a 3-D glow.
+The DJ stand needed to be light enough to move and adjustable. Therefore, I designed a 3 panel system with hinges and minimal framing. 
+
+<img src="wood_working/dj_stand_drawing.jpg?raw=true"/>
+
+The framing allowed for light but sturdy construction, while the hinges provided some flexibility with the set up.
+
+<img src="wood_working/dj_stand_hinges.jpg?raw=true"/>
+
+
+To highlight the stand further, we used UV activated paint and set UV lights in the direction of the stand. 
+
+<img src="wood_working/dj_stand_side.jpg?raw=true"/>
+
+
+We also created a light box for each panel to give the illusion of our letters in 3-D. To do this, I cut our letters out from each panel, then built a white box behind them. We then ran LED’s around the perimeter of the box to create a 3-D glow.
+
+<img src="wood_working/dj_stand_lights.jpg?raw=true"/>
+
 
 Behind the stand, I re-purposed an old dip bar I made during COVID to act as a stand for the electronics. The DJ stands on a small platform behind the stand to further accentuate their presence in the room.
+
+<img src="wood_working/dj_stand_back.jpg?raw=true"/>
+
