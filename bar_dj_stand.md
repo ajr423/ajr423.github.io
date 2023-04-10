@@ -9,6 +9,8 @@ Although the school was kind enough to grant us the privilege to rent a chapter 
 
 In order to save funds, I lead the team that __designed, budgeted, and built__ our bar and DJ stand. I'm incredibly proud of these projects because they are the largest and most complicated projects I have personally designed and executed.
 
+---
+
 ## The Bar
 The 10’ long bar boasts a two teared prep/serving space, sanded/stained/sealed wooden paneling, interior shelving, sliding barn doors, sturdy framing, and flashing for additional water resistance.
 
@@ -68,6 +70,11 @@ The majority of the construction was done in my garage off campus while a few cu
 Once the framing was in place, we took the bar up to the chapter house to install it and get approval from the school. Next, we attached the paneling, installed the cabinetry, and sliding barn doors.
 
 <img src="wood_working/bar_framed.jpg?raw=true"/>
+
+---
+
+
+
 
 
 ## DJ Stand
