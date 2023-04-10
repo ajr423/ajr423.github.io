@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Fraternity Chapter House: 10’ Bar and DJ Stand
 
 My fraternity, Sigma Phi Delta (a social/professional engineering fraternity), was founded on Lehigh’s campus 10 years ago. Since that time, one goal of the organization was to become officially recognized in the eyes of the school and earn a chapter house on Lehigh’s hill. Last year (2022), I had the pleasure of serving on the exec board that worked with the school to bring us into the fold of Lehigh’s Interfraternal Counsel and secure a chapter house on the hill.
@@ -16,10 +20,12 @@ I worked in tandem with a longtime friend and architecture major to pick the gen
 
 After that, I spent many hours on Youtube researching different construction methods and designs for bars. Finally, I landed on a framing system that would hold up against extreme abuse while providing plenty of behind bar storage.
 
-<img src="wood_working/bar_framing_cad.jpg?raw=true"/>
+Note: The dimensioning in the upper left view does not follow convention. I dimensioned this way as a note to self.
+<img src="wood_working/bar_framing_cad.JPG?raw=true"/>
 
 Once the design was finalized, we submitted our papers to the school for approval and communicated with the administration for revisions and further detail.
 
+Neither of the following were drawn to scale
 <img src="wood_working/bar_iso.jpg?raw=true"/>
 
 <img src="wood_working/bar_back_drawing.jpg?raw=true"/>
