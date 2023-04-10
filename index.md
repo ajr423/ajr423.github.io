@@ -32,7 +32,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ## Active Solar Development LLC: Solar Site Designer and Land Aqcuisition Intern
 
-_**[Land Screening, GIS, and Site Design](/pdf/sample_presentation.pdf)**_
+_**[Land Screening, GIS, and Site Design](blodgett_rd.md)**_
 
 Over the past year with Active Solar, I have worked with my land development team to imporve and streamline our site screening and design process.
 
@@ -44,7 +44,16 @@ _**[Trinmel Point: Rooftop Solar Design](/pdf/sample_presentation.pdf)**_
 
 This design was created for a rooftop solar installation in North New Jersey.
 
-<img src="active_solar/Trinmel_Point_Solar_Site.pdf?raw=true"/>
+<img src="active_solar/Trinmel_Point_Solar_Site.JPG?raw=true"/>
+
+---
+
+
+_**[Plug Power: Rooftop Solar Design](/pdf/sample_presentation.pdf)**_
+
+This design was created for a rooftop solar installation on a hydrogen production plant.
+
+<img src="active_solar/PLUG POWER SOLAR DESIGN.jpg?raw=true"/>
 
 ---
 
