@@ -10,7 +10,10 @@ The 10’ long bar boasts a two teared prep/serving space, sanded/stained/sealed
 
 __Design__
 
-I worked in tandem with a longtime friend and architecture major to pick the general style and theme of the bar. After that, I spent many hours on Youtube researching different construction methods and designs for bars. Finally, I landed on a framing system that would hold up against extreme abuse while providing plenty of behind bar storage.
+I worked in tandem with a longtime friend and architecture major to pick the general style and theme of the bar. 
+
+
+After that, I spent many hours on Youtube researching different construction methods and designs for bars. Finally, I landed on a framing system that would hold up against extreme abuse while providing plenty of behind bar storage.
 
 Once the design was finalized, we submitted our papers to the school for approval and communicated with the administration for revisions and further detail.
 
