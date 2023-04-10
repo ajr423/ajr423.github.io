@@ -12,10 +12,18 @@ __Design__
 
 I worked in tandem with a longtime friend and architecture major to pick the general style and theme of the bar. 
 
+<img src="wood_working/bar_initial_concept.jpg?raw=true"/>
 
 After that, I spent many hours on Youtube researching different construction methods and designs for bars. Finally, I landed on a framing system that would hold up against extreme abuse while providing plenty of behind bar storage.
 
+<img src="wood_working/bar_framing_cad.jpg?raw=true"/>
+
 Once the design was finalized, we submitted our papers to the school for approval and communicated with the administration for revisions and further detail.
+
+<img src="wood_working/bar_iso.jpg?raw=true"/>
+
+<img src="wood_working/bar_back_drawing.jpg?raw=true"/>
+
 
 __Budgeting__
 
