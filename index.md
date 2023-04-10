@@ -36,7 +36,7 @@ _**[Land Screening, GIS, and Site Design](/pdf/sample_presentation.pdf)**_
 
 Over the past year with Active Solar, I have worked with my land development team to imporve and streamline our screening and design process.
 
-<img src="active_solar/blodgett_site_design.jpg?raw=true"/>
+<img src="active_solar/blodgett_site_design.JPG?raw=true"/>
 
 ---
 
