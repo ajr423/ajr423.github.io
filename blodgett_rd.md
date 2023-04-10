@@ -51,10 +51,10 @@ In order to assist the civil team with their site walk, I prepare the following
 The resulting Google Earth file allows the civil team to track their site walk via gps, determine the slope of their current position, and note parcel boundaries. Because the civil team has more information during the site walk, they are able to get a better understanding on the costs associated with earthwork to prep the land for solar.
 
 Parcel outline with easements, existing power lines, and roadway
-<img src="active_solar/google_outline.JPG?raw=true"/>
+<img src="active_solar/google_outline.jpg?raw=true"/>
 
 ArcGIS slope analysis from LIDAR data
-<img src="active_solar/slope analysis.JPG?raw=true"/>
+<img src="active_solar/slope analysis.jpg?raw=true"/>
 
 
 
