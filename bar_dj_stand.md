@@ -12,6 +12,26 @@ In order to save funds, I lead the team that __designed, budgeted, and built__ o
 ## The Bar
 The 10’ long bar boasts a two teared prep/serving space, sanded/stained/sealed wooden paneling, interior shelving, sliding barn doors, sturdy framing, and flashing for additional water resistance.
 
+<img src="wood_working/bar_finished_front.jpg?raw=true"/>
+
+<img src="wood_working/bar_finished_iso.jpg?raw=true"/>
+
+The L-brackets support the solid corian top
+<img src="wood_working/bar_under.jpg?raw=true"/>
+
+<img src="wood_working/bar_back_top.jpg?raw=true"/>
+
+The sliding barn doors provide easy access to the interior
+<img src="wood_working/bar_barn_doors.jpg?raw=true"/>
+
+Three of the bays sport shelving for storage of smaller items
+<img src="wood_working/bar_cabinate.jpg?raw=true"/>
+
+Two of the bays do not have shelving to store bulk items
+<img src="wood_working/bar_storage.jpg?raw=true"/>
+
+
+
 __Design__
 
 I worked in tandem with a longtime friend and architecture major to pick the general style and theme of the bar. 
