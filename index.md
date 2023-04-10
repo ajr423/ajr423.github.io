@@ -18,13 +18,13 @@ This project analyzes the impact of 10-k sentiment on their stock returns
 _**[Regression Practice](Regression_practice)**_
 
 
-<img src="images/coming_soon.JPG?raw=true"/>
+<img src="images/coming_soon.jpg?raw=true"/>
 
 ---
 
 _**[Team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/coming_soon.JPG?raw=true"/>
+<img src="images/coming_soon.jpg?raw=true"/>
 
 ---
 
