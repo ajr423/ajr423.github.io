@@ -47,7 +47,7 @@ The majority of the construction was done in my garage off campus while a few cu
 
 Once the framing was in place, we took the bar up to the chapter house to install it and get approval from the school. Next, we attached the paneling, installed the cabinetry, and sliding barn doors.
 
-<img src="wood_working/bar_framing.jpg?raw=true"/>
+<img src="wood_working/bar_framed.jpg?raw=true"/>
 
 
 ## DJ Stand
