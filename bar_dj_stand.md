@@ -35,7 +35,7 @@ __Budgeting__
 
 Although we did not have a specific dollar amount we were trying to keep that bar within, all decisions were made to maximize utility and aesthetic for the lowest cost. For that reason, we used thinner plywood for the back paneling of the inside of the cabinetry did everything from scratch except for the counter top. See the cost sheet below.
 
-<img src="wood_working/bar_cost.jpg?raw=true"/>
+<img src="wood_working/bar_cost.JPG?raw=true"/>
 
 
 __Construction__
