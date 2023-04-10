@@ -32,7 +32,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ## Active Solar Development LLC: Solar Site Designer and Land Aqcuisition Intern
 
-_**[Land Screening, GIS, and Site Design](/pdf/sample_presentation.pdf)**_
+_**[Land Screening, GIS, and Site Design](blodgett_rd.md)**_
 
 Over the past year with Active Solar, I have worked with my land development team to imporve and streamline our site screening and design process.
 
