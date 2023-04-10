@@ -44,7 +44,7 @@ _**[Trinmel Point: Rooftop Solar Design](/pdf/sample_presentation.pdf)**_
 
 This design was created for a rooftop solar installation in North New Jersey.
 
-<img src="active_solar/Trinmel_Point_Solar_Site.pdf?raw=true"/>
+<img src="active_solar/Trinmel_Point_Solar_Site.jpg?raw=true"/>
 
 ---
 
