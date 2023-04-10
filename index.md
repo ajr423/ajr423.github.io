@@ -12,21 +12,19 @@ _**[Natural language processing 10-Ks to identify risks](report.md)**_
 
 This project analyzes the impact of 10-k sentiment on their stock returns
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/coming_soon.JPG?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/coming_soon.JPG?raw=true"/>
 
 ---
 
@@ -40,7 +38,7 @@ Over the past year with Active Solar, I have worked with my land development tea
 
 ---
 
-_**[Trinmel Point: Rooftop Solar Design](/pdf/sample_presentation.pdf)**_
+_**[Trinmel Point: Rooftop Solar Design](/active_solar/Trinmel_Point_Solar_Site_with_dimensions.pdf)**_
 
 This design was created for a rooftop solar installation in North New Jersey.
 
@@ -49,7 +47,7 @@ This design was created for a rooftop solar installation in North New Jersey.
 ---
 
 
-_**[Plug Power: Rooftop Solar Design](/pdf/sample_presentation.pdf)**_
+_**[Plug Power: Rooftop Solar Design](/active_solar/PLUG POWER SOLAR DESIGN.pdf)**_
 
 This design was created for a rooftop solar installation on a hydrogen production plant.
 
