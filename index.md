@@ -75,8 +75,7 @@ Ultimately, I would like to find a job where I can utilize both my engineering a
 
 ## Woodworking Portfolio
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+Here are some of the projects that I have done while at Lehigh. I’m adding this in to this page because the projects give an accurate reflection of how I problem solve and build things to fit the needs of a given situation.
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
