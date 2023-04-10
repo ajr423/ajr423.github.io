@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 Below is how our workflow changed over the course of the past year. I worked closely with the director of the land department to screen different software systems and develope a process that suited our needs, saved time, and money.
 
 ## Problem, Solution, Results
