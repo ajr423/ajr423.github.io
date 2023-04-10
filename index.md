@@ -77,6 +77,13 @@ Ultimately, I would like to find a job where I can utilize both my engineering a
 
 Here are some of the projects that I have done while at Lehigh. I’m adding these in because the projects give an accurate reflection of how I problem solve and create solutions to fit the needs of a given situation.
 
+_**[Sigma Phi Delta: 10' Bar and DJ Stand](bar_dj_stand.md)**_
+
+I lead the team that designed, budgeted, and built our bar and DJ stand. I'm incredibly proud of these projects because they are the largest and most complicated projects I have personally designed and executed.
+
+<img src="wood_working/bar_finished_front.jpg?raw=true"/>
+<img src="wood_working/dj_stand_finished.jpg?raw=true"/>
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
