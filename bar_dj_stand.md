@@ -35,11 +35,20 @@ __Budgeting__
 
 Although we did not have a specific dollar amount we were trying to keep that bar within, all decisions were made to maximize utility and aesthetic for the lowest cost. For that reason, we used thinner plywood for the back paneling of the inside of the cabinetry did everything from scratch except for the counter top. See the cost sheet below.
 
+<img src="wood_working/bar_cost.jpg?raw=true"/>
+
+
 __Construction__
 
 The majority of the construction was done in my garage off campus while a few cuts were made in the woodshop. For the most part, I organized shifts with my brothers to move the project along.
 
+<img src="wood_working/bar_construction.jpg?raw=true"/>
+
+
 Once the framing was in place, we took the bar up to the chapter house to install it and get approval from the school. Next, we attached the paneling, installed the cabinetry, and sliding barn doors.
+
+<img src="wood_working/bar_framing.jpg?raw=true"/>
+
 
 ## DJ Stand
 
