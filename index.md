@@ -30,16 +30,13 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Active Solar Development](/pdf/sample_presentation.pdf)**_
+## Active Solar Development LLC: Solar Site Designer and Land Aqcuisition Intern
 
-Title: Solar Site Designer & Land Aquisitioner
+_**[Land Screening, GIS, and Site Design](/pdf/sample_presentation.pdf)**_
 
-• Designed 50+ conceptual plans for 5MW solar systems in CAD/Helioscope using input from the land team
-• Performed financial/output analysis on 5 single axis tracker systems to determine profitability relative to existing fixed tilt racking. Presented findings to team, recommended best system and additional software
-• Cutting survey costs: Researched different GIS platforms in order use public DEM data. Learned ArcGIS to perform slope/cut & fill analysis on potential sites. Saved $5k per site + understood earthwork costs
-• Manufactured beam connections, modified existing beams, and installed beams on steel structure
+Over the past year with Active Solar, I have worked with my land development team to imporve and streamline our screening and design process.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="active_solar/blodgett_site_design.jpg?raw=true"/>
 
 ---
 
