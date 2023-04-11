@@ -21,7 +21,7 @@ In order to have the bottom of the drawer be parallel with the ground, I had to 
 
 <img src="wood_working/night_stand_bottom_drawer_left.jpg?raw=true"/>
 
-One the drawers were assembled, I needed to mount them to sliders. The problem was, I had mount the sliders to something. I cut out a flat piece of plywood and secured it for the bottom drawer. 
+Once the drawers were assembled, I needed to mount them to sliders. The problem was, I had mount the sliders to something. I cut out a flat piece of plywood and secured it for the bottom drawer. 
 <img src="wood_working/night_stand_bottom_slides.jpg?raw=true"/>
 
 For the upper drawer, I cut out two strips of plywood for each slider and attached them at the back of the shell and along the center divider.
@@ -29,6 +29,11 @@ For the upper drawer, I cut out two strips of plywood for each slider and attach
 
 The sliders themselves had to be modified because they were too long. After a little bit of time in the metal shop, they were cut down to size, the ball bearings were replaced, and they were ready to go.
 <img src="wood_working/night_stand_slides_arches.jpg?raw=true"/>
+
+After a lot of shimming to level out the drawers and some polyurethane, I had finally finished.
+<img src="wood_working/night_stand_iso_left.jpg?raw=true"/>
+<img src="wood_working/night_stand_iso_right.jpg?raw=true"/>
+
 
 
 
