@@ -98,7 +98,7 @@ I love pushing myself. This project for my furniture design class definitely pus
 
 _**[Hand Carved Spoon and Holder](spoon.md)**_
 
-In my furniture design class we were prompted with making a hand carved spoon
+In my furniture design class we were prompted with making a hand carved spoon and a holder that utilized joinary.
 
 <img src="wood_working/spoon_holder_front.jpg?raw=true"/>
 <img src="wood_working/spoon_iso.jpg?raw=true"/>
