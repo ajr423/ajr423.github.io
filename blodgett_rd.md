@@ -6,21 +6,21 @@ Below is how our workflow changed over the course of the past year. I worked clo
 
 ## Problem, Solution, Results
 
-**__Introduction__**
+**Introduction**
 
 Solar projects require differ from traditional development projects due to the added level of site screening that they must undergo. Not only do these projects require suitable slopes, no wetlands or floodplains, and permitted use within the town code, but they also require capacity on the power lines located adjacent to the site. This greatly limits the amount of sites we can develop on.
 This added layer of complexity hindered our speed when screening land. Additionally, we used to rely heavily on outside firms to assist in our early development process. This lead to longer lead times and more money down on projects that were not necessarily viable or likely to be approved by the zoning board.
 
-**__Problem__**
+**Problem**
 
 How can we streamline our development process while lowering upfront capital costs to mitigate risk in early stage projects?
 
-**__Solution Summary__**
+**Solution Summary**
 
 We leveraged publicly available datasets to do the majority of our land screening in-house without leaving the office. We researched a multitude of software systems to create a structured development pipeline that produced accurate concept plans that could be presented to township planning boards, investors, and civil engineers for further analysis.
 
 
-**__Results__**
+**Results**
 
 Previous workflow:
 - Land screening: bouncing between 5 different websites to check for solar suitability.
@@ -36,7 +36,7 @@ Revised workflow (all in-house):
 
 Blodgett Rd is a potential greenfield solar site. I did all of the landscreening, topography analysis, and design for this site.
 
-**__Land Screening__**
+**Land Screening**
 
 I used a subscription based software check to check the following
 - Environmental Issues: floodplains, wetlands, sensitive farmland and lands of historic importance
@@ -44,7 +44,7 @@ I used a subscription based software check to check the following
 - Hosting Capacity: the capacity on the grid to accept incoming solar projects
 - Town Code: ensure that solar is permitted and note any requirements by the township.
 
-**__Preparing for a Site Walk__**
+**Preparing for a Site Walk**
 
 In order to assist the civil team with their site walk, I prepare the following
 - Pull the title, old deeds, tax parcel data, or survey’s into __CAD__ and geolocate them using the CogoEditor
@@ -63,7 +63,7 @@ ArcGIS slope analysis from LIDAR data
 
 
 
-**__Site Design__**
+**Site Design**
 
 Once the land has been screened, we have established site control, and walked the site (optional at this stage), the site is ready for a design.
 - Helioscope: I use Helioscope to lay out a preliminary design and simulate the production of the field given shading from the surrounding area.
