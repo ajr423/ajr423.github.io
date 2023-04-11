@@ -107,5 +107,18 @@ In my furniture design class we were prompted with making a hand carved spoon an
 
 --- 
 
+
+_**Bent Lamination Coffee Table**_
+
+This is the project that I am currently working on for one of my fraternity's alumni. All proceeds from the table will go towards additional furniture for the chapter house.
+
+The table top will be a live edge beach slab. The arched aprons will be ash (if I can find it) or oak because they have consitent grains needed for the bent lamination. The legs will be walnut to provide a dark/light contrast. I'm looking forward to the end product because I know it'll beautiful.
+
+<img src="wood_working/table_drawing.jpg?raw=true"/>
+
+
+
+--- 
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
