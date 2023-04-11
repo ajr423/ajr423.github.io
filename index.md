@@ -86,5 +86,14 @@ I lead the team that designed, budgeted, and built our bar and DJ stand. I'm inc
 <img src="wood_working/dj_stand_finished.jpg?raw=true"/>
 
 ---
+
+_**[Night Stand with Compound Angles](night_stand.md)**_
+
+I love pushing myself. This project for my furniture design class definitely pushed my limits with precision, ingenuity, and geometry skills.
+
+<img src="wood_working/night_stand_front.jpg?raw=true"/>
+
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
