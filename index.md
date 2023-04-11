@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## About Me
 
 I am a senior in the Integrated Business and Engineering Honors Program pursuing a degree in finance and a minor in mechanics of materials. By spring '24 I will have my Master's from Lehigh in Energy System's Engineering. I enjoy the intersection between engineering and business, working on teams, and challenging myself. After college I want to work in sustainable development, energy systems engineering, renewables, energy storage, or nuclear power generation.
