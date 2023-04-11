@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Night Stand with Compound Angles
 
 The design for this project kind of came out of thin air. I needed a nightstand and started drawing.
