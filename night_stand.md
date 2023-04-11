@@ -30,5 +30,10 @@ For the upper drawer, I cut out two strips of plywood for each slider and attach
 The sliders themselves had to be modified because they were too long. After a little bit of time in the metal shop, they were cut down to size, the ball bearings were replaced, and they were ready to go.
 <img src="wood_working/night_stand_slides_arches.jpg?raw=true"/>
 
+After a lot of shimming to level out the drawers and some polyurethane, I had finally finished.
+<img src="wood_working/night_stand_iso_left.jpg?raw=true"/>
+<img src="wood_working/night_stand_iso_right.jpg?raw=true"/>
+
+
 
 
