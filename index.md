@@ -95,5 +95,17 @@ I love pushing myself. This project for my furniture design class definitely pus
 
 
 ---
+
+_**[Hand Carved Spoon and Holder](spoon.md)**_
+
+In my furniture design class we were prompted with making a hand carved spoon
+
+<img src="wood_working/spoon_holder_front.jpg?raw=true"/>
+<img src="wood_working/spoon_iso.jpg?raw=true"/>
+
+
+
+--- 
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
