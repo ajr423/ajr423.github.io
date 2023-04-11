@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 ## Hand Carved Spoon and Holder
 
 __Spoon__
