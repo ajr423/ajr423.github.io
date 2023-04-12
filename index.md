@@ -41,18 +41,10 @@ Over the past year with Active Solar, I have worked with my land development tea
 
 ---
 
-_**[Trinmel Point: Rooftop Solar Design](/active_solar/Trinmel_Point_Solar_Site_with_dimensions.pdf)**_
 
-This design was created for a rooftop solar installation in North New Jersey.
+_**[Warehouse Rooftop Solar Design](/active_solar/PLUG POWER SOLAR DESIGN.pdf)**_
 
-<img src="active_solar/Trinmel_Point_Solar_Site.JPG?raw=true"/>
-
----
-
-
-_**[Plug Power: Rooftop Solar Design](/active_solar/PLUG POWER SOLAR DESIGN.pdf)**_
-
-This design was created for a rooftop solar installation on a hydrogen production plant.
+This design was created for a rooftop solar installation on a warehouse in upstate NY.
 
 <img src="active_solar/PLUG POWER SOLAR DESIGN.jpg?raw=true"/>
 
