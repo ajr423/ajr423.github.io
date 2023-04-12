@@ -42,7 +42,7 @@ Over the past year with Active Solar, I have worked with my land development tea
 ---
 
 
-_**[Warehouse Rooftop Solar Design](/active_solar/PLUG POWER SOLAR DESIGN.pdf)**_
+_**[Warehouse Rooftop Solar Design](/active_solar/PLUG_POWER_SOLAR_DESIGN.pdf)**_
 
 This design was created for a rooftop solar installation on a warehouse in upstate NY.
 
