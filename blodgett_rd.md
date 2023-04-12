@@ -32,9 +32,9 @@ Revised workflow (all in-house):
 - Final Design: combine helioscope design, survey and topography data, and wetland information into a georeferenced CAD drawing that can be exported and presented.
 
 
-## Workflow Example: Blodgett Rd (15 MW AC)
+## Workflow Example: 15 MW AC Greenfield Site
 
-Blodgett Rd is a potential greenfield solar site. I did all of the landscreening, topography analysis, and design for this site.
+I preformed the landscreening, topography analysis, and design for this site.
 
 **Land Screening**
 
