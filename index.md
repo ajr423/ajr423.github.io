@@ -8,26 +8,18 @@ I am a senior in the Integrated Business and Engineering Honors Program pursuing
 
 ---
 
-## Python Portfolio
+_**[Regression Practice](assgn-08_exercise.ipynb)**_
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+I used data cleaning techniques and machine learning to optimize regression that predicts housing prices given a multitude of factors.
 
-_**[Natural language processing 10-Ks to identify risks](report.md)**_
-
-This project analyzes the impact of 10-k sentiment on their stock returns
-
-
----
-
-_**Regression Practice**_
-
-Coming Soon!
 
 ---
 
 _**Team project**_
 
 Coming Soon!
+
+In our project, we are using machine learning and regression to determine how CEO and Director compensation impacts firm performance.
 
 ---
 
