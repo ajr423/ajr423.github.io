@@ -8,7 +8,7 @@ I am a senior in the Integrated Business and Engineering Honors Program pursuing
 
 ---
 
-_**[Regression Practice](assgn-08_exercise.ipynb)**_
+_**[Regression Practice](assgn-08_exercise.md)**_
 
 I used data cleaning techniques and machine learning to optimize regression that predicts housing prices given a multitude of factors.
 
