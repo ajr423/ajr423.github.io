@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Assignment 8
 
 __Assignment Overview__
