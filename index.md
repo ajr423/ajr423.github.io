@@ -12,7 +12,7 @@ _**[Regression Practice](assgn-08_exercise.ipynb)**_
 
 I used data cleaning techniques and machine learning to optimize regression that predicts housing prices given a multitude of factors.
 
-
+<img src="/images/regression.JPG?raw=true"/>
 ---
 
 _**Team project**_
